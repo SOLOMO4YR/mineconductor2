@@ -11,4 +11,4 @@ else
 fi
 sleep 2h
 sleep ${rand}m
-shutdown -r now
+#shutdown -r now
